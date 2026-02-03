@@ -1,0 +1,33 @@
+# Fichiers générés par l'IDE Arduino / ESP32
+*.ino.cpp
+*.ino.h
+*.elf
+*.bin
+*.eep
+*.hex
+build/
+.pio/
+.vscode/
+.history/
+*.cache
+*.dmp
+
+# Fichiers temporaires et backups
+*~
+*.bak
+*.swp
+*.tmp
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Fichiers sensibles
+secrets.h
+config.h
+wifi_credentials.h
+
+# Logs et traces
+*.log
+serial.log
